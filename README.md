@@ -54,7 +54,7 @@ cd TILog-server
 yarn install
 ```
 
-## 3.Run This App
+## 3.Run This Ap
 ```
 yarn start
 ```
